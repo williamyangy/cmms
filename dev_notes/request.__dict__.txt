@@ -1,0 +1,214 @@
+{
+  'environ': {
+    'NVM_DIR': '/home/chi/.nvm',
+    'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:',
+    'HOSTTYPE': 'x86_64',
+    'LESSCLOSE': '/usr/bin/lesspipe %s %s',
+    'LANG': 'C.UTF-8',
+    'OLDPWD': '/mnt/c/Users/hcnguyen',
+    'NVM_CD_FLAGS': '',
+    'WSL_DISTRO_NAME': 'Ubuntu-18.04',
+    'VIRTUAL_ENV': '/mnt/c/Users/hcnguyen/study/python/bookdb/venv',
+    'USER': 'chi',
+    'PWD': '/mnt/c/Users/hcnguyen/study/python/bookdb',
+    'HOME': '/home/chi',
+    'NAME': 'NGUYENHUUCHI',
+    'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+    'SHELL': '/bin/bash',
+    'TERM': 'xterm-256color',
+    'NVM_BIN': '/home/chi/.nvm/versions/node/v12.14.1/bin',
+    'SHLVL': '1',
+    'LOGNAME': 'chi',
+    'PATH': '/mnt/c/Users/hcnguyen/study/python/bookdb/venv/bin:/home/chi/.local/bin:/home/chi/.nvm/versions/node/v12.14.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/TortoiseSVN/bin:/mnt/c/Users/hcnguyen/program/dita-ot-3.3/bin:/mnt/c/Users/hcnguyen/program/jdk-12.0.1/bin:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Users/hcnguyen/AppData/Roaming/npm/:/mnt/c/Users/hcnguyen/AppData/Local/Programs/Python/Python37/Scripts:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/c/Users/hcnguyen/AppData/Roaming/Python/Python37/Scripts:/mnt/c/Program Files (x86)/GnuWin32/bin:/mnt/c/Program Files/Intel/WiFi/bin/:/mnt/c/Program Files/Common Files/Intel/WirelessCommon/:/mnt/c/Users/hcnguyen/AppData/Local/Programs/Python/Python37:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/ext/bin/spss.TMWBServer/bin:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/bin:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/MPICH2/bin:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/TABI:/mnt/c/Program Files (x86)/IBM/SPSS/Statistics/22/JRE/bin:/mnt/c/Program Files/PuTTY/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Calibre2/:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/hcnguyen/AppData/Local/Yarn/bin:/mnt/c/Program Files/Intel/WiFi/bin/:/mnt/c/Program Files/Common Files/Intel/WirelessCommon/:/mnt/c/Users/hcnguyen/.ebcli-virtual-env/executables:/mnt/c/Users/hcnguyen/AppData/Local/Microsoft/WindowsApps:/snap/bin',
+    'PS1': '(venv) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ ',
+    'WSLENV': '',
+    'LESSOPEN': '| /usr/bin/lesspipe %s',
+    '_': '/mnt/c/Users/hcnguyen/study/python/bookdb/venv/bin/python3',
+    'DJANGO_SETTINGS_MODULE': 'bookdb.settings',
+    'TZ': 'Asia/Singapore',
+    'RUN_MAIN': 'true',
+    'SERVER_NAME': 'localhost',
+    'GATEWAY_INTERFACE': 'CGI/1.1',
+    'SERVER_PORT': '8000',
+    'REMOTE_HOST': '',
+    'CONTENT_LENGTH': '191',
+    'SCRIPT_NAME': '',
+    'SERVER_PROTOCOL': 'HTTP/1.1',
+    'SERVER_SOFTWARE': 'WSGIServer/0.2',
+    'REQUEST_METHOD': 'POST',
+    'PATH_INFO': '/prep/jul2019-jan2020/m/add',
+    'QUERY_STRING': '',
+    'REMOTE_ADDR': '127.0.0.1',
+    'CONTENT_TYPE': 'application/x-www-form-urlencoded',
+    'HTTP_HOST': 'localhost:8000',
+    'HTTP_CONNECTION': 'keep-alive',
+    'HTTP_CACHE_CONTROL': 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS': '1',
+    'HTTP_ORIGIN': 'http://localhost:8000',
+    'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+    'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_SEC_FETCH_SITE': 'same-origin',
+    'HTTP_SEC_FETCH_MODE': 'navigate',
+    'HTTP_SEC_FETCH_USER': '?1',
+    'HTTP_SEC_FETCH_DEST': 'document',
+    'HTTP_REFERER': 'http://localhost:8000/prep/jul2019-jan2020/m/add',
+    'HTTP_ACCEPT_ENCODING': 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE': 'en-US,en;q=0.9,vi;q=0.8',
+    'HTTP_COOKIE': 'Pycharm-73b15e12=9cabf8d3-7490-4d53-8c24-5b7288bf1cf9; remember_token=3|493a4856727be1de261b6d3f3435f61de9fdc7be09eac70fd3a194ca5e7e31bb19e7bec3f4f598e238bd8f45d5211ed46aaaab1b7c5d76e7571f7ef14a9e3f35; username-localhost-8888="2|1:0|10:1589531023|23:username-localhost-8888|44:ZTJhM2VkOGM4ODdhNGFkZmFmYzI0NjdiMmZhNzZkMzk=|68f04a9975894a2b72a338297d2d4cae1c8b4478db5d8a4e5450626668e081ce"; _xsrf=2|a407b954|034e2b6a451fff1b458019bd1b5cd918|1589791464; csrftoken=O0Zqz2MBDUqhmn51r8S0l6aULgA52db1Mwm31lq5MMERugR5IKanX47R8Z1ftcsY; sessionid=z9zwqw4izl43jbejgt2z5mihefdh4noj; djdt=hide; djdttop=36',
+    'wsgi.input': <django.core.handlers.wsgi.LimitedStreamobjectat0x7fd7dc0bd358>,
+    'wsgi.errors': <_io.TextIOWrappername='<stderr>'mode='w'encoding='UTF-8'>,
+    'wsgi.version': (1,
+    0),
+    'wsgi.run_once': False,
+    'wsgi.url_scheme': 'http',
+    'wsgi.multithread': True,
+    'wsgi.multiprocess': False,
+    'wsgi.file_wrapper': <class'wsgiref.util.FileWrapper'>,
+    'CSRF_COOKIE': 'O0Zqz2MBDUqhmn51r8S0l6aULgA52db1Mwm31lq5MMERugR5IKanX47R8Z1ftcsY'
+  },
+  'path_info': '/prep/jul2019-jan2020/m/add',
+  'path': '/prep/jul2019-jan2020/m/add',
+  'META': {
+    'NVM_DIR': '/home/chi/.nvm',
+    'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:',
+    'HOSTTYPE': 'x86_64',
+    'LESSCLOSE': '/usr/bin/lesspipe %s %s',
+    'LANG': 'C.UTF-8',
+    'OLDPWD': '/mnt/c/Users/hcnguyen',
+    'NVM_CD_FLAGS': '',
+    'WSL_DISTRO_NAME': 'Ubuntu-18.04',
+    'VIRTUAL_ENV': '/mnt/c/Users/hcnguyen/study/python/bookdb/venv',
+    'USER': 'chi',
+    'PWD': '/mnt/c/Users/hcnguyen/study/python/bookdb',
+    'HOME': '/home/chi',
+    'NAME': 'NGUYENHUUCHI',
+    'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+    'SHELL': '/bin/bash',
+    'TERM': 'xterm-256color',
+    'NVM_BIN': '/home/chi/.nvm/versions/node/v12.14.1/bin',
+    'SHLVL': '1',
+    'LOGNAME': 'chi',
+    'PATH': '/mnt/c/Users/hcnguyen/study/python/bookdb/venv/bin:/home/chi/.local/bin:/home/chi/.nvm/versions/node/v12.14.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/TortoiseSVN/bin:/mnt/c/Users/hcnguyen/program/dita-ot-3.3/bin:/mnt/c/Users/hcnguyen/program/jdk-12.0.1/bin:/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/mnt/c/Users/hcnguyen/AppData/Roaming/npm/:/mnt/c/Users/hcnguyen/AppData/Local/Programs/Python/Python37/Scripts:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/c/Users/hcnguyen/AppData/Roaming/Python/Python37/Scripts:/mnt/c/Program Files (x86)/GnuWin32/bin:/mnt/c/Program Files/Intel/WiFi/bin/:/mnt/c/Program Files/Common Files/Intel/WirelessCommon/:/mnt/c/Users/hcnguyen/AppData/Local/Programs/Python/Python37:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/ext/bin/spss.TMWBServer/bin:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/bin:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/MPICH2/bin:/mnt/c/Program Files (x86)/IBM/SPSS/Modeler/18.0/TABI:/mnt/c/Program Files (x86)/IBM/SPSS/Statistics/22/JRE/bin:/mnt/c/Program Files/PuTTY/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Calibre2/:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/hcnguyen/AppData/Local/Yarn/bin:/mnt/c/Program Files/Intel/WiFi/bin/:/mnt/c/Program Files/Common Files/Intel/WirelessCommon/:/mnt/c/Users/hcnguyen/.ebcli-virtual-env/executables:/mnt/c/Users/hcnguyen/AppData/Local/Microsoft/WindowsApps:/snap/bin',
+    'PS1': '(venv) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ ',
+    'WSLENV': '',
+    'LESSOPEN': '| /usr/bin/lesspipe %s',
+    '_': '/mnt/c/Users/hcnguyen/study/python/bookdb/venv/bin/python3',
+    'DJANGO_SETTINGS_MODULE': 'bookdb.settings',
+    'TZ': 'Asia/Singapore',
+    'RUN_MAIN': 'true',
+    'SERVER_NAME': 'localhost',
+    'GATEWAY_INTERFACE': 'CGI/1.1',
+    'SERVER_PORT': '8000',
+    'REMOTE_HOST': '',
+    'CONTENT_LENGTH': '191',
+    'SCRIPT_NAME': '',
+    'SERVER_PROTOCOL': 'HTTP/1.1',
+    'SERVER_SOFTWARE': 'WSGIServer/0.2',
+    'REQUEST_METHOD': 'POST',
+    'PATH_INFO': '/prep/jul2019-jan2020/m/add',
+    'QUERY_STRING': '',
+    'REMOTE_ADDR': '127.0.0.1',
+    'CONTENT_TYPE': 'application/x-www-form-urlencoded',
+    'HTTP_HOST': 'localhost:8000',
+    'HTTP_CONNECTION': 'keep-alive',
+    'HTTP_CACHE_CONTROL': 'max-age=0',
+    'HTTP_UPGRADE_INSECURE_REQUESTS': '1',
+    'HTTP_ORIGIN': 'http://localhost:8000',
+    'HTTP_USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+    'HTTP_ACCEPT': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_SEC_FETCH_SITE': 'same-origin',
+    'HTTP_SEC_FETCH_MODE': 'navigate',
+    'HTTP_SEC_FETCH_USER': '?1',
+    'HTTP_SEC_FETCH_DEST': 'document',
+    'HTTP_REFERER': 'http://localhost:8000/prep/jul2019-jan2020/m/add',
+    'HTTP_ACCEPT_ENCODING': 'gzip, deflate, br',
+    'HTTP_ACCEPT_LANGUAGE': 'en-US,en;q=0.9,vi;q=0.8',
+    'HTTP_COOKIE':'Pycharm-73b15e12=9cabf8d3-7490-4d53-8c24-5b7288bf1cf9; remember_token=3|493a4856727be1de261b6d3f3435f61de9fdc7be09eac70fd3a194ca5e7e31bb19e7bec3f4f598e238bd8f45d5211ed46aaaab1b7c5d76e7571f7ef14a9e3f35; username-localhost-8888="2|1:0|10:1589531023|23:username-localhost-8888|44:ZTJhM2VkOGM4ODdhNGFkZmFmYzI0NjdiMmZhNzZkMzk=|68f04a9975894a2b72a338297d2d4cae1c8b4478db5d8a4e5450626668e081ce"; _xsrf=2|a407b954|034e2b6a451fff1b458019bd1b5cd918|1589791464; csrftoken=O0Zqz2MBDUqhmn51r8S0l6aULgA52db1Mwm31lq5MMERugR5IKanX47R8Z1ftcsY; sessionid=z9zwqw4izl43jbejgt2z5mihefdh4noj; djdt=hide; djdttop=36',
+    'wsgi.input': <django.core.handlers.wsgi.LimitedStreamobjectat0x7fd7dc0bd358>,
+    'wsgi.errors': <_io.TextIOWrappername='<stderr>'mode='w'encoding='UTF-8'>,
+    'wsgi.version': (1,
+    0),
+    'wsgi.run_once': False,
+    'wsgi.url_scheme': 'http',
+    'wsgi.multithread': True,
+    'wsgi.multiprocess': False,
+    'wsgi.file_wrapper': <class'wsgiref.util.FileWrapper'>,
+    'CSRF_COOKIE': 'O0Zqz2MBDUqhmn51r8S0l6aULgA52db1Mwm31lq5MMERugR5IKanX47R8Z1ftcsY'
+  },
+  'method': 'POST',
+  'content_type': 'application/x-www-form-urlencoded',
+  'content_params': {
+    
+  },
+  '_stream': <_io.BytesIOobjectat0x7fd7dc0260f8>,
+  '_read_started': True,
+  'resolver_match': ResolverMatch(func=bms.views.MaterialPreparationAddMaterial,
+  args=(),
+  kwargs={
+    'slug': 'jul2019-jan2020'
+  },
+  url_name=prep_add_material,
+  app_names=[
+    'bms'
+  ],
+  namespaces=[
+    'bms'
+  ],
+  route=prep/<slug>/m/add),
+  'COOKIES': {
+    'Pycharm-73b15e12': '9cabf8d3-7490-4d53-8c24-5b7288bf1cf9',
+    'remember_token': '3|493a4856727be1de261b6d3f3435f61de9fdc7be09eac70fd3a194ca5e7e31bb19e7bec3f4f598e238bd8f45d5211ed46aaaab1b7c5d76e7571f7ef14a9e3f35',
+    'username-localhost-8888': '2|1:0|10:1589531023|23:username-localhost-8888|44:ZTJhM2VkOGM4ODdhNGFkZmFmYzI0NjdiMmZhNzZkMzk=|68f04a9975894a2b72a338297d2d4cae1c8b4478db5d8a4e5450626668e081ce',
+    '_xsrf': '2|a407b954|034e2b6a451fff1b458019bd1b5cd918|1589791464',
+    'csrftoken': 'O0Zqz2MBDUqhmn51r8S0l6aULgA52db1Mwm31lq5MMERugR5IKanX47R8Z1ftcsY',
+    'sessionid': 'z9zwqw4izl43jbejgt2z5mihefdh4noj',
+    'djdt': 'hide',
+    'djdttop': '36'
+  },
+  'session': <django.contrib.sessions.backends.db.SessionStoreobjectat0x7fd7dc065f28>,
+  'user': <SimpleLazyObject: <functionAuthenticationMiddleware.process_request.<locals>.<lambda>at0x7fd7d6b801e0>>,
+  '_messages': <django.contrib.messages.storage.fallback.FallbackStorageobjectat0x7fd7dc54a668>,
+  '_body': b'csrfmiddlewaretoken=KuoXmeU8Hz61tpuy10XrBrw7pxcdS4vLI0LAOxyCQrkBBigCiCfOdpt4MgDnj3MI&course=6914&semester=5&type=Book&title=Book+1a&author=&isbn=&publisher=&retail_price_cur=SGD&retail_price=',
+  '_post': <QueryDict: {
+    'csrfmiddlewaretoken': [
+      'KuoXmeU8Hz61tpuy10XrBrw7pxcdS4vLI0LAOxyCQrkBBigCiCfOdpt4MgDnj3MI'
+    ],
+    'course': [
+      '6914'
+    ],
+    'semester': [
+      '5'
+    ],
+    'type': [
+      'Book'
+    ],
+    'title': [
+      'Book 1a'
+    ],
+    'author': [
+      ''
+    ],
+    'isbn': [
+      ''
+    ],
+    'publisher': [
+      ''
+    ],
+    'retail_price_cur': [
+      'SGD'
+    ],
+    'retail_price': [
+      ''
+    ]
+  }>,
+  '_files': <MultiValueDict: {
+    
+  }>,
+  'csrf_processing_done': True
+}
+
+dump of
+    def form_valid(self, form):
+        print("form_valid - form", form.__dict__)
+
+form_valid - form {'is_bound': True, 'data': <QueryDict: {'csrfmiddlewaretoken': ['HsEqxYMCCIZ9UEdsys4pS9InRZd5zZcgFY13Zhq6LAdJ2xZwP4mMu7FkeIEf0Ytd'], 'course': ['6914'], 'semester': ['5'], 'type': ['Book'], 'title': ['Book 1a'], 'author': ['Author 1a'], 'isbn': ['1234'], 'publisher': ['13'], 'retail_price_cur': ['SGD'], 'retail_price': [''], 'discard_reason': ['']}>, 'files': <MultiValueDict: {}>, 'auto_id': 'id_%s', 'initial': {}, 'error_class': <class 'django.forms.utils.ErrorList'>, 'label_suffix': ':', 'empty_permitted': False, '_errors': {}, 'fields': OrderedDict([('is_discard', <django.forms.fields.BooleanField object at 0x7f31f45a38d0>), ('discard_reason', <django.forms.fields.CharField object at 0x7f31f45a37b8>), ('type', <django.forms.fields.TypedChoiceField object at 0x7f31f4659978>), ('title', <django.forms.fields.CharField object at 0x7f31f43e6518>), ('author', <django.forms.fields.CharField object at 0x7f31f43e6828>), ('edition', <django.forms.fields.CharField object at 0x7f31f43e6748>), ('description', <django.forms.fields.CharField object at 0x7f31f43e63c8>), ('isbn', <django.forms.fields.CharField object at 0x7f31f43e6668>), ('vbid', <django.forms.fields.CharField object at 0x7f31f426b5f8>), ('publisher', <django.forms.models.ModelChoiceField object at 0x7f31f426b0f0>), ('retail_price_cur', <django.forms.fields.TypedChoiceField object at 0x7f31f426b358>), ('retail_price', <django.forms.fields.DecimalField object at 0x7f31f426b208>), ('course', <django.forms.models.ModelChoiceField object at 0x7f31f426b128>), ('semester', <django.forms.models.ModelChoiceField object at 0x7f31f426b588>)]), '_bound_fields_cache': {}, 'renderer': <django.forms.renderers.DjangoTemplates object at 0x7f31f467c128>, 'bookform': <BookForm bound=True, valid=True, fields=(type;title;author;edition;description;isbn;vbid;publisher;retail_price_cur;retail_price)>, 'semestercourseform': <SemesterCourseForm bound=True, valid=True, fields=(course;semester)>, 'cleaned_data': {'is_discard': False, 'discard_reason': '', 'type': 'Book', 'title': 'Book 1a', 'author': 'Author 1a', 'edition': None, 'description': '', 'isbn': '1234', 'vbid': None, 'publisher': <Publisher:  T&F>, 'retail_price_cur': 'SGD', 'retail_price': None, 'course': <CourseInfo: ACC201 - Financial Accounting>, 'semester': <Semester: JAN2020>}}

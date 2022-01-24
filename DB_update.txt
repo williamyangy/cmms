@@ -1,0 +1,16 @@
+first   hop_exec    then     jan21combined
+
+
+
+SET SQL_SAFE_UPDATES = 0;
+UPDATE TMS_UAT.bms_title SET author = REPLACE(author, '', 'NA');
+SELECT * FROM TMS_UAT.bms_title;
+
+
+SET SQL_SAFE_UPDATES = 0;
+update TMS_PROD.bms_title set edition=NULL where edition=0; 
+
+SET SQL_SAFE_UPDATES = 0;
+update TMS_PROD.bms_title set cover='No_image.jpg' where cover=''; 
+
+
