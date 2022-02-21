@@ -27,6 +27,8 @@ jobs:
     env:
       TZ: Asia/Shanghai
       REGISTRY: ghcr.io
+    outputs:
+      tags: ${{ steps.set-output-id.outputs.tags }}
     steps:
       - uses: actions/checkout@v2
       - name: Login
@@ -42,5 +44,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
+            ${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:${{ needs.get-tags.outputs.tags }}
             ${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:latest
           
