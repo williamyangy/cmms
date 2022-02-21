@@ -8,7 +8,7 @@ env:
   IMAGE_NAME: CMMS #这是您的镜像名
 jobs:
   get-tags:
-    runs-on: amazon-linux-2
+    runs-on: ubuntu-20.04
     env:
       TZ: Asia/Shanghai
     outputs:
@@ -24,7 +24,7 @@ jobs:
           fi
           echo ::set-output name=tags::${VERSION}          
   push-ghcr:
-    runs-on: amazon-linux-2
+    runs-on: ubuntu-20.04
     env:
       TZ: Asia/Shanghai
       REGISTRY: docker.pkg.github.com
