@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-20.04
     env:
       TZ: Asia/Shanghai
-    outputs:
-      tags: ${{ steps.set-output-id.outputs.tags }}
+
     steps:
       - uses: actions/checkout@v2
       - name: set-output
@@ -43,5 +42,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:${{ needs.get-tags.outputs.tags }}
-            ${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:latest            
+            ${{ env.REGISTRY }}/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:latest
+          
